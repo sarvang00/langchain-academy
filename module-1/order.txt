@@ -1,0 +1,6 @@
+simple-graph - How to build graph
+chain - How to add chain of AI processes
+router - How to add decision making to chain of process and trigger AI calls
+agent - deploy multiple tools; let the agent decide which one to run (agent can act, observe, reason - reAct)
+agent-memory - how to persist memory between multiple chats using thread_id
+deployment - act, observe, reason, persist_state

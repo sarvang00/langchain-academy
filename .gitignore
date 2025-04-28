@@ -2,6 +2,12 @@
 
 .idea/
 
+# my venv
+lc-adademy-env/
+
+# langgraph app
+langgraph-app-0/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
