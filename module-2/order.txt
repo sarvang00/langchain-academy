@@ -1,2 +1,6 @@
-state-schema
-state-reducers
+state-schema - Define a state machine
+state-reducers - Use reducers to maintain context size
+multiple-schemas - How to have multiple/ use custom schemas
+trim-filter-messages - How to trim the messages
+chatbot-summerization - summerization of chat on reaching a certain length
+chatbot-external-memory - 
