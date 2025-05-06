@@ -1,0 +1,3 @@
+parallelization - parallel execution to build context + web search
+sub-graph - creating sub-tasks (different graphs for summarization, identifying errors)
+map-reduce - Mapping and Redcuing algos but for using AI (get the best output)
